@@ -1,0 +1,1 @@
+This project contains sample codes of Google Gemini API integration with Python
